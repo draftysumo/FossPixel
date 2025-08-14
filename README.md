@@ -40,14 +40,13 @@ The **source code** will be available right here on this **GitHub repo**. The of
 
 # 🤔 Why?
 
-We kind of already explained this… but yeah, we want a real, free alternative to Adobe tools that doesn’t suck.
+We kind of already explained this… but yeah, we want a real, **free alternative** to Adobe tools that doesn’t **suck**. Especially ones avaliable for **Linux**
 
 # 🛠️ How?
 
-Uhhh... **development?** Obviously. 😅
+Our team develops **FossPixel** on the Linux distrobution **ZorinOS** in virtual machines & dual-booted laptops. **FossPixel** is tested on many **different operating systems** & **hardware** to ensure everything runs & behaves **correctly**
 
 ---
-
 # 💪 Dependencies / Credits + Licenses:
 - GIMP 3.0.4: (https://www.gimp.org/) [GPL 3.0]
 - Google Material 3 Symbols: (https://fonts.google.com/icons) [Apache License, Version 2.0]
