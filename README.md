@@ -47,6 +47,14 @@ We kind of already explained this… but yeah, we want a real, **free alternativ
 Our team develops **FossPixel** on the Linux distrobution **ZorinOS** in virtual machines & dual-booted laptops. **FossPixel** is tested on many **different operating systems** & **hardware** to ensure everything runs & behaves **correctly**
 
 ---
+
+# 👷‍♂️ Wish to contribute?
+
+- Pull request? - Just make one here on Github!
+- Beta test? - add & DM me on Discord and we'll set everything up! (My Username: DraftySumo)
+- Join LunaTech? - Do the same as the Beta test contributers, just add me on Discord and we'll get you sorted :)
+
+---
 # 💪 Dependencies / Credits + Licenses:
 - GIMP 3.0.4: (https://www.gimp.org/) [GPL 3.0]
 - Google Material 3 Symbols: (https://fonts.google.com/icons) [Apache License, Version 2.0]
