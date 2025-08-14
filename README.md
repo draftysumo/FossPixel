@@ -48,7 +48,7 @@ Uhhh... **development?** Obviously. 😅
 
 ---
 
-# 💪 Dependencies / Credits:
+# 💪 Dependencies / Credits + Licenses:
 - GIMP 3.0.4: (https://www.gimp.org/) [GPL 3.0]
 - Google Material 3 Symbols: (https://fonts.google.com/icons) [Apache License, Version 2.0]
 - Icons8: (https://icons8.com/) [Universal Multimedia Licensing Agreement]
