@@ -49,8 +49,8 @@ Uhhh... **development?** Obviously. 😅
 ---
 
 # 💪 Dependencies / Credits:
-- GIMP 3.0.4: (https://www.gimp.org/)
-- Google Material 3 Symbols: (https://fonts.google.com/icons)
-- Icons8: (https://icons8.com/)
-- g'mic: (https://gmic.eu/)
-- Resynthesizer: (https://github.com/bootchk/resynthesizer)
+- GIMP 3.0.4: (https://www.gimp.org/) [GPL 3.0]
+- Google Material 3 Symbols: (https://fonts.google.com/icons) [Apache License, Version 2.0]
+- Icons8: (https://icons8.com/) [Universal Multimedia Licensing Agreement]
+- g'mic: (https://gmic.eu/) [CeCILL‑2.1]
+- Resynthesizer: (https://github.com/bootchk/resynthesizer) [GPL 3.0]
