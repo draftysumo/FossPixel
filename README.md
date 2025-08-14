@@ -50,9 +50,9 @@ Our team develops **FossPixel** on the Linux distrobution **ZorinOS** in virtual
 
 # 👷‍♂️ Wish to contribute?
 
-- Pull request? - Just make one here on Github!
-- Beta test? - add & DM me on Discord and we'll set everything up! (My Username: DraftySumo)
-- Join LunaTech? - Do the same as the Beta test contributers, just add me on Discord and we'll get you sorted :)
+- **Pull request**? - Just make one here on Github!
+- **Beta test**? - add & DM me on Discord and we'll set everything up! (My Username: **DraftySumo**)
+- **Join LunaTech**? - Do the same as the Beta test contributers, just add me on Discord and we'll get you sorted :)
 
 ---
 # 💪 Dependencies / Credits + Licenses:
