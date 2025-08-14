@@ -16,8 +16,6 @@ Looking for a free alternative to Photoshop or Illustrator? **FossPixel** is a p
 * **Built-in shape tools** for easy shape creation.
 * **Quick-access tool options** in a streamlined top bar for faster workflow.
 
----
-
 # ✅ Completed Implementations:
 
 * Smooth, performant zooming and scrolling via multi-core CPU and GPU utilization.
