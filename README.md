@@ -40,11 +40,11 @@ The **source code** will be available right here on this **GitHub repo**. The of
 
 # 🤔 Why?
 
-We kind of already explained this… but yeah, we want a real, **free alternative** to Adobe tools that doesn’t **suck**. Especially ones avaliable for **Linux**
+We kind of already explained this… but yeah, we want a real, **free alternative** to Adobe tools that doesn’t **suck**. Especially ones avaliable for **Linux**.
 
 # 🛠️ How?
 
-Our team develops **FossPixel** on the Linux distrobution **ZorinOS** in virtual machines & dual-booted laptops. **FossPixel** is tested on many **different operating systems** & **hardware** to ensure everything runs & behaves **correctly**
+**FossPixel** is developed on **Linux!** specifically Ubuntu Desktop. FossPixel is **tested on all major OS's** and hardware to ensure it functions **correctly** no matter what device its running on.
 
 ---
 
