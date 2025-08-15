@@ -1,42 +1,42 @@
 # 🎨 FossPixel (In Development)
 
-Looking for a free alternative to Photoshop or Illustrator? **FossPixel** is a powerful, open-source image editing and illustration tool. Built on **GIMP 3**, it's designed to be a true contender against Adobe’s flagship products for the adverage user without the price tag.
+Looking for a **free** alternative to Photoshop? **FossPixel** is a powerful, open-source image editing and illustration tool. it's designed to replicate all the main features you love into an easy to understand UI. All **without** the price tag.
 
 ---
 
-# 🔧 Planned Implementations:
+# 🔧 Features:
 
-* A **modern, intuitive interface** based on extensively researched UI/UX design principles and inspired by **Google’s Material Design**.
-* **Smooth, high-performance zooming and scrolling** using multi-core CPU processing and GPU acceleration.
-* **Double buffering** for tear-free rendering and smoother performance.
-* **RAW photo editing** capabilities with settings similar to those in Adobe Lightroom.
-* **Smarter selection tools** powered by advanced Python algorithms and machine learning.
-* **Popular plugins** like G’MIC and Resynthesizer seamlessly integrated into the GUI.
-* **Customizable UI color themes** for a personalized workspace.
-* **Built-in shape tools** for easy shape creation.
-* **Quick-access tool options** in a streamlined top bar for faster workflow.
-
-# ✅ Completed Implementations:
-
-* Smooth, performant zooming and scrolling via multi-core CPU and GPU utilization.
+1. Layers
+2. Color/lighting adjustment
+3. Cropping & resiszing
+4. Masks
+5. Smart selection tools
+6. Heal tools
+7. Basic brushes
+8. Blending modes
+9. Modern & easy-to-use UI/UX
+10. Proper CPU & GPU utilisation
+11. Eraser tools
+12. Filters
+13. Bucket fill tools
 
 ---
 
 # 👤 Who?
 
-**FossPixel** is being developed by me (@Draftysumo) & some of my colleagues like @Kinetiklite
+**FossPixel** is being developed by me (@Draftysumo) along with some colleagues & whoever wants to contribute.
 
 # ❓ What?
 
-GIMP is still not a fully viable replacement for Photoshop or Illustrator for the average user. We're working to change that with **FossPixel**.
+GIMP is still not a fully viable replacement for Photoshop EVEN AFTER 20 YEARS OF INCEPTION so I'm doing it myself 😎
 
 # 🗓️ When?
 
-We’re aiming to release **beta builds** later this year or early next. With community feedback, we'll refine and improve. As for a full release - we’re a small team, so expect at least a year or two. Thanks for being patient!
+I'm aiming to release **beta builds** later this year or early next. With community feedback, I'll refine and improve. As for a full release - we’re a small team, so expect at least a year or two. Thanks for being patient!
 
 # 🌐 Where?
 
-The **source code** will be available right here on this **GitHub repo**. The official **FossPixel website** is in the works once it's live, it’ll host download links and updates. For now, keep checking back here!
+The **source code** will be available right here on this **GitHub repo**. The official **FossPixel website** is in the works - once it's live, it’ll host download links and updates. For now, keep checking back here!
 
 # 🤔 Why?
 
@@ -52,12 +52,3 @@ We kind of already explained this… but yeah, we want a real, **free alternativ
 
 - **Pull request**? - Just make one here on Github!
 - **Beta test**? - add & DM me on Discord and we'll set everything up! (My Username: **DraftySumo**)
-- **Join LunaTech**? - Do the same as the Beta test contributers, just add me on Discord and we'll get you sorted :)
-
----
-# 💪 Dependencies / Credits + Licenses:
-- GIMP 3.0.4: (https://www.gimp.org/) [GPL 3.0]
-- Google Material 3 Symbols: (https://fonts.google.com/icons) [Apache License, Version 2.0]
-- Icons8: (https://icons8.com/) [Universal Multimedia Licensing Agreement]
-- g'mic: (https://gmic.eu/) [CeCILL‑2.1]
-- Resynthesizer: (https://github.com/bootchk/resynthesizer) [GPL 3.0]
