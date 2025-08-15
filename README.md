@@ -24,7 +24,7 @@ Looking for a free alternative to Photoshop or Illustrator? **FossPixel** is a p
 
 # 👤 Who?
 
-**FossPixel** is being developed by me and a few fellow aspiring developers as part of our indie dev team - **LunaTech**.
+**FossPixel** is being developed by me (@Draftysumo) & some of my colleagues like @Kinetiklite
 
 # ❓ What?
 
