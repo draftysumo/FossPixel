@@ -1,6 +1,6 @@
 # 🎨 FossPixel (In Development)
 
-Looking for a free alternative to Photoshop or Illustrator? **FossPixel** is a powerful, open-source image editing and illustration tool. Built on **GIMP 3**, it's designed to be a true contender against Adobe’s flagship products for the adverage user — without the price tag.
+Looking for a free alternative to Photoshop or Illustrator? **FossPixel** is a powerful, open-source image editing and illustration tool. Built on **GIMP 3**, it's designed to be a true contender against Adobe’s flagship products for the adverage user without the price tag.
 
 ---
 
@@ -36,7 +36,7 @@ We’re aiming to release **beta builds** later this year or early next. With co
 
 # 🌐 Where?
 
-The **source code** will be available right here on this **GitHub repo**. The official **FossPixel website** is in the works — once it's live, it’ll host download links and updates. For now, keep checking back here!
+The **source code** will be available right here on this **GitHub repo**. The official **FossPixel website** is in the works once it's live, it’ll host download links and updates. For now, keep checking back here!
 
 # 🤔 Why?
 
