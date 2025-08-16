@@ -51,4 +51,4 @@ We kind of already explained this… but yeah, we want a real, **free alternativ
 # 👷‍♂️ Wish to contribute?
 
 - **Pull request**? - Just make one here on Github!
-- **Beta test**? - add & DM me on Discord and we'll set everything up! (My Username: **DraftySumo**)
+- **Beta test**? - Add & DM me on Discord and we'll set everything up! (My Username: **DraftySumo**)
