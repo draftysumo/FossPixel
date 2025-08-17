@@ -1,6 +1,6 @@
 # 🎨 FossPixel (In Development)
 
-Looking for a **free** alternative to Photoshop? **FossPixel** is a powerful, open-source image editing and illustration tool. it's designed to replicate all the main features you love into an easy to understand UI. All **without** the price tag.
+Looking for a **free** alternative to Photoshop or Lightroom? **FossPixel** is a powerful, open-source image editing and photo tweaking tool. it's designed to replicate all the main features you love from Adobes flagship products into an easy to understand UI. All **without** the price tag.
 
 ---
 
