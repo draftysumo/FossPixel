@@ -40,7 +40,7 @@ Here’s how FossPixel fits into the bigger picture of creative tools:
 * **DaVinci Resolve** → Video editing *(not open source, but free)* [https://www.blackmagicdesign.com/products/davinciresolve/]
 * **OBS Studio** → Screen & audio recording/streaming [https://obsproject.com/]
 * **Blender** → 3D modeling & animation [https://www.blender.org/]
-* **FossPixel** → Photo editing & creative image works assembly [https://www.github.com/drafysumo]
+* **FossPixel** → Photo editing & creative image works assembly [https://www.github.com/draftysumo]
 * **Darktable** → Batch edit lighting in Photos [https://www.darktable.org/]
 * **Kdenlive** → Alternative to Davinchi Resolve thats actually FOSS (free & open source software) [https://kdenlive.org/]
 * **Audacity** → Audio recorder & editor [https://www.audacityteam.org/]
