@@ -1,3 +1,5 @@
+<img width="180" height="180" alt="FossPixel" src="https://github.com/user-attachments/assets/e76dcdab-85bd-4a39-a867-025edd519cff" />
+
 # 🎨 FossPixel (In Development)
 
 Looking for a **free** alternative to Photoshop or Lightroom? **FossPixel** is a powerful, open-source image editing and photo tweaking tool. It's designed to replicate the core features you love from Adobe’s flagship products in an easy-to-understand UI — all **without** the price tag.
